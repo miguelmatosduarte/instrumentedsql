@@ -1,6 +1,6 @@
 module github.com/pcruz7/instrumentedsql/xray
 
-go 1.14
+go 1.17
 
 require (
 	github.com/aws/aws-sdk-go v1.23.19 // indirect

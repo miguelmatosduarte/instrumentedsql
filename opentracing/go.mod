@@ -1,6 +1,6 @@
 module github.com/pcruz7/instrumentedsql/opentracing
 
-go 1.14
+go 1.17
 
 require (
 	github.com/luna-duclos/instrumentedsql v1.1.3
