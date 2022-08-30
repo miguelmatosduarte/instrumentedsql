@@ -1,4 +1,4 @@
-module github.com/miguelmatosduarte/instrumentedsql/xray
+module github.com/pcruz7/instrumentedsql/xray
 
 go 1.14
 

@@ -1,4 +1,4 @@
-module github.com/miguelmatosduarte/instrumentedsql/opentracing
+module github.com/pcruz7/instrumentedsql/opentracing
 
 go 1.14
 

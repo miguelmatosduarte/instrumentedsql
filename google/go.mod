@@ -1,4 +1,4 @@
-module github.com/miguelmatosduarte/instrumentedsql/google
+module github.com/pcruz7/instrumentedsql/google
 
 go 1.14
 

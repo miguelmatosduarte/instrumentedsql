@@ -1,4 +1,4 @@
-module github.com/miguelmatosduarte/instrumentedsql/opencensus
+module github.com/pcruz7/instrumentedsql/opencensus
 
 go 1.14
 
